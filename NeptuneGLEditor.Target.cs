@@ -8,7 +8,9 @@ public class NeptuneGLEditorTarget : TargetRules
 	public NeptuneGLEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
+        //BuildEnvironment = TargetBuildEnvironment.Unique;
+		DefaultBuildSettings = BuildSettingsVersion.V4;
 
-		ExtraModuleNames.AddRange( new string[] { "NeptuneGL" } );
+        ExtraModuleNames.AddRange( new string[] { "NeptuneGL" } );
 	}
 }
