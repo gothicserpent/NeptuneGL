@@ -9,6 +9,9 @@ public class NeptuneGLServerTarget : TargetRules
 	public NeptuneGLServerTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Server;
+		//BuildEnvironment = TargetBuildEnvironment.Unique;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
 		ExtraModuleNames.AddRange( new string[] { "NeptuneGL" } );
 	}
