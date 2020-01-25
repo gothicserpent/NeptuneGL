@@ -10,13 +10,16 @@
 </a> <a href="https://store.steampowered.com/app/782640/NeptuneGL/">
 <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Logo_SteamEarlyAccess.png" alt="Steam Link"
 	title="Steam Link" align="middle"/>
+</a> <a href="https://play.google.com/store/apps/details?id=com.gothicserpent.neptunegl">
+<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Kitten"
+	title="Play Store Link" width="25%" height="25%" align="middle"/>
 </a>
 
 ## Issues
 
 If you found a bug or have a new idea/feature:
 * If you just want to send a quick message about it, [message me on my discord server about it](https://discord.gg/dc3kbYg).
-* If you want to go to github to raise an issue, [report as an issue](https://github.com/gothicserpent/NeptuneGL/issues/new).
+* If you want to go to github to raise an issue, [report as an issue](https://github.com/gothicserpent/NeptuneGL/issues/new/choose).
 * If you're a programmer and want to make a code suggestion on github via pull request from a public fork of my project, [make a public fork](https://github.com/gothicserpent/NeptuneGL/fork) and [make a pull request](https://github.com/gothicserpent/NeptuneGL/pull/new).
 
 ## Support or feedback
@@ -40,7 +43,7 @@ Thanks to all the people who have contributed ideas, patches, bugs report, featu
 
 ## Contributing
 
-If you want to contribute to the project and make it better, your help is very welcome. You can contribute by [making a suggestion to me on my discord server](https://discord.gg/dc3kbYg) or by [raising a github issue](https://github.com/gothicserpent/NeptuneGL/issues/new) or by [making a public fork](https://github.com/gothicserpent/NeptuneGL/fork) and [making a pull request to my codebase](https://github.com/gothicserpent/NeptuneGL/pull/new).
+If you want to contribute to the project and make it better, your help is very welcome. You can contribute by [making a suggestion to me on my discord server](https://discord.gg/dc3kbYg) or by [raising a github issue](https://github.com/gothicserpent/NeptuneGL/issues/new/choose) or by [making a public fork](https://github.com/gothicserpent/NeptuneGL/fork) and [making a pull request to my codebase](https://github.com/gothicserpent/NeptuneGL/pull/new).
 
 For more information about pull requests, you can find [pull request general information on the github site](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), see the [git-request-pull documentation](https://git-scm.com/docs/git-request-pull), browse a [basic guide to pull requests](https://github.com/MarcDiethelm/contributing), or browse a [long guide to pull requests](https://github.com/firstcontributions/first-contributions).
 
