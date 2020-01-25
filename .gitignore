@@ -1,0 +1,24 @@
+# Ignore VS stuff
+.vs/
+*.sln
+
+# Ignore generated folders
+Binaries/*
+Build/*
+Intermediate/*
+DerivedDataCache/*
+Saved/*
+
+# Ignore the same things for plugins
+Plugins/**/Binaries/*
+Plugins/**/Build/*
+Plugins/**/Intermediate/*
+Plugins/**/DerivedDataCache/*
+Plugins/**/Saved/*
+
+# Don't ignore icon files in Build
+!Build/Linux
+!Build/Windows
+
+# Ignore lightmaps
+*_BuiltData.uasset
