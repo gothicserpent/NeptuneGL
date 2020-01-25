@@ -5,10 +5,10 @@ using System.Collections.Generic;
 
 public class NeptuneGLTarget : TargetRules
 {
-	public NeptuneGLTarget(TargetInfo Target) : base(Target)
-	{
-		Type = TargetType.Game;
+public NeptuneGLTarget(TargetInfo Target) : base(Target)
+{
+	Type = TargetType.Game;
 
-		ExtraModuleNames.AddRange( new string[] { "NeptuneGL" } );
-	}
+	ExtraModuleNames.AddRange( new string[] { "NeptuneGL" } );
+}
 }
